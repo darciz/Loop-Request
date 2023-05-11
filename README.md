@@ -6,5 +6,5 @@ Example scripts for testing requests using loop
 To start script, you must to change the "url" value
 
 ```
-url = "value";
+url = "value"
 ```
