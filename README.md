@@ -11,4 +11,5 @@ url = "value"
 
 ### Authors
 
-[zensy](https://github.com/zensyz) & [darci](https://github.com/darciz)
+[zensy](https://github.com/zensyz)
+[darci](https://github.com/darciz)
